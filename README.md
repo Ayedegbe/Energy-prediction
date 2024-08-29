@@ -1,0 +1,1 @@
+Autoregressive Integrated Moving Average was used in this project to improve the prediction og individual household appliance energy usage and was applied with fuzzy logic rules to furter improve energy prediction accuracy.
